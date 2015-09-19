@@ -1,0 +1,130 @@
+[24-May-2015 09:42:36 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:42:36 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[24-May-2015 09:42:36 Europe/Berlin] PHP Fatal error:  Using $this when not in object context in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 25
+[24-May-2015 09:45:53 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:45:53 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:45:53 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:45:53 Europe/Berlin] PHP Strict Standards:  Accessing static property LOG::$logfilepath as non static in C:\xampp\htdocs\core\cl\cl_LOG.php on line 54
+[24-May-2015 09:45:53 Europe/Berlin] PHP Notice:  Undefined property: LOG::$logfilepath in C:\xampp\htdocs\core\cl\cl_LOG.php on line 54
+[24-May-2015 09:45:53 Europe/Berlin] PHP Strict Standards:  Accessing static property LOG::$logfilepath as non static in C:\xampp\htdocs\core\cl\cl_LOG.php on line 55
+[24-May-2015 09:45:53 Europe/Berlin] PHP Notice:  Undefined property: LOG::$logfilepath in C:\xampp\htdocs\core\cl\cl_LOG.php on line 55
+[24-May-2015 09:45:53 Europe/Berlin] PHP Warning:  file_get_contents(): Filename cannot be empty in C:\xampp\htdocs\core\cl\cl_LOG.php on line 55
+[24-May-2015 09:46:55 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:46:55 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:46:55 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:51:21 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:51:21 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:51:21 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:51:30 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:51:30 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:51:30 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:52:15 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:52:15 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:52:15 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:52:55 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:52:55 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:52:55 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:53:18 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:53:18 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:53:18 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:53:33 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:53:33 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:53:33 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:53:43 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:53:43 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:53:43 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:54:57 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:54:57 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:54:57 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:55:11 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:55:11 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:55:11 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 09:55:22 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 09:55:22 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 09:55:22 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 10:00:38 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 10:00:38 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 10:00:38 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 10:01:01 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 10:01:01 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 10:01:01 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 10:01:18 Europe/Berlin] PHP Strict Standards:  Accessing static property CONFIG::$config as non static in C:\xampp\htdocs\core\cl\cl_CONFIG.php on line 23
+[24-May-2015 10:01:18 Europe/Berlin] PHP Strict Standards:  Accessing static property MYSQL::$lc_config as non static in C:\xampp\htdocs\core\cl\cl_MYSQL.php on line 22
+[succ]24.05.2015 - 10:01:18 config.ini wurde erfolgreich geladen.[/succ] 
+[24-May-2015 11:05:39 Europe/Berlin] PHP Notice:  Undefined variable: mysql_config in C:\xampp\htdocs\core\mysql.php on line 23
+[24-May-2015 11:05:39 Europe/Berlin] PHP Notice:  Undefined variable: mysql_config in C:\xampp\htdocs\core\mysql.php on line 23
+[24-May-2015 11:05:39 Europe/Berlin] PHP Notice:  Undefined variable: mysql_config in C:\xampp\htdocs\core\mysql.php on line 23
+[24-May-2015 11:05:39 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 23
+[24-May-2015 11:07:48 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 22
+[24-May-2015 11:09:01 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 22
+[24-May-2015 11:09:37 Europe/Berlin] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 22
+[24-May-2015 11:19:57 Europe/Berlin] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 25
+[24-May-2015 11:20:09 Europe/Berlin] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 25
+[24-May-2015 11:21:18 Europe/Berlin] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in C:\xampp\htdocs\core\mysql.php on line 24
+[24-May-2015 11:27:15 Europe/Berlin] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 31
+[24-May-2015 11:27:15 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_result() in C:\xampp\htdocs\core\mysql.php on line 32
+[24-May-2015 11:27:34 Europe/Berlin] PHP Notice:  Undefined variable: link in C:\xampp\htdocs\core\mysql.php on line 31
+[24-May-2015 11:27:34 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\core\mysql.php on line 31
+[24-May-2015 11:27:34 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_result() in C:\xampp\htdocs\core\mysql.php on line 32
+[24-May-2015 11:28:37 Europe/Berlin] PHP Fatal error:  Call to undefined function mysqli_result() in C:\xampp\htdocs\core\mysql.php on line 35
+[24-May-2015 11:28:47 Europe/Berlin] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 35
+[24-May-2015 11:28:47 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:29:21 Europe/Berlin] PHP Warning:  mysql_result() expects at least 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 35
+[24-May-2015 11:29:21 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:29:31 Europe/Berlin] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 35
+[24-May-2015 11:29:31 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:31:33 Europe/Berlin] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in C:\xampp\htdocs\core\mysql.php on line 35
+[24-May-2015 11:31:33 Europe/Berlin] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\core\mysql.php on line 40
+[24-May-2015 11:31:51 Europe/Berlin] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\core\mysql.php on line 39
+[24-May-2015 11:34:07 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\core\mysql.php on line 41
+[24-May-2015 11:34:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:34:41 Europe/Berlin] PHP Notice:  Undefined index: name in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:35:45 Europe/Berlin] PHP Notice:  Undefined index: 'value' in C:\xampp\htdocs\core\mysql.php on line 36
+[24-May-2015 11:39:47 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\core\mysql.php on line 51
+[24-May-2015 11:42:10 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\core\mysql.php on line 51
+[24-May-2015 12:07:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:07:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:08:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\core\mysql.php on line 65
+[24-May-2015 12:17:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:18:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:19:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:22:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in C:\xampp\htdocs\core\mysql.php on line 61
+[24-May-2015 12:22:51 Europe/Berlin] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:23:25 Europe/Berlin] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:23:25 Europe/Berlin] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:23:25 Europe/Berlin] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:24:08 Europe/Berlin] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:26:37 Europe/Berlin] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function '' not found or invalid function name in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:26:37 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\core\mysql.php on line 60
+[24-May-2015 12:26:49 Europe/Berlin] PHP Warning:  array_map() expects at least 2 parameters, 1 given in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 12:26:49 Europe/Berlin] PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\core\mysql.php on line 60
+[24-May-2015 12:28:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\xampp\htdocs\core\mysql.php on line 59
+[24-May-2015 16:26:45 Europe/Berlin] PHP Fatal error:  Class 'MYSQL' not found in C:\xampp\htdocs\core\cl\cl_THEME.php on line 19
+[24-May-2015 16:29:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'global' (T_GLOBAL), expecting function (T_FUNCTION) in C:\xampp\htdocs\core\cl\cl_THEME.php on line 24
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:11:36 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 25
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:12:40 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 28
+[24-May-2015 17:13:24 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 26
+[24-May-2015 17:13:24 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 26
+[24-May-2015 17:13:24 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 29
+[24-May-2015 17:13:24 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 29
+[24-May-2015 17:13:24 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 29
+[24-May-2015 19:36:18 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 26
+[24-May-2015 19:36:18 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 26
+[24-May-2015 19:36:18 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 29
+[24-May-2015 19:36:19 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 29
+[24-May-2015 19:36:19 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 29
+[25-May-2015 11:13:37 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 26
+[25-May-2015 11:13:37 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 26
+[25-May-2015 11:13:37 Europe/Berlin] PHP Notice:  Undefined variable: str_start in C:\xampp\htdocs\core\theme.php on line 29
+[25-May-2015 11:13:37 Europe/Berlin] PHP Notice:  Undefined variable: str_end in C:\xampp\htdocs\core\theme.php on line 29
+[25-May-2015 11:13:37 Europe/Berlin] PHP Notice:  Undefined variable: code in C:\xampp\htdocs\core\theme.php on line 29

@@ -1,0 +1,35 @@
+html, body {
+  font-family: 'Roboto';
+}
+.mbd-layout {
+    width: 100vw;
+}
+.mbd-layout-header-top {
+    top: 0px;
+    right: 0px;
+    width: calc(100% - 240px);
+    background: #00529B;
+    position: absolute;
+}
+.mbd-layout-header-top-title {
+    display:block;
+    position:relative;
+    font-family: 'Roboto';
+    font-size:20px;
+    line-height:1;
+    letter-spacing:.02em;
+    font-weight:400;
+    box-sizing:border-box
+}
+.mbd-layout-drawer {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    width: 240px;
+    height: 100vh;
+    background: #37474F;
+    
+}
+.mbd-layout-drawer-header {
+    background: #424242;
+}

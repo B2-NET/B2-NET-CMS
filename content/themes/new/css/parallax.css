@@ -1,0 +1,157 @@
+/*
+Diese Datei ist Teil des Projektes B2NET-CMS, welches von Alban Bruder im Rahmen 
+seinerKomplexen Leistung im Fach Informatik am Gymnasium Burgstädt erstellt wurde.
+
+Autor: Alban Bruder
+Tutor: Frau Wetzig	
+Betreuender Fachlehrer: Herr Schneider
+
+Dateiinformation
+Name:	
+Ort:	
+Funktion:
+*/
+/* 
+    Created on : 30.06.2015, 22:23:28
+    Author     : Alban
+*/
+body {
+    background-color: #f0f0f0;
+}
+header {
+    height: 79px;
+    background-color: #ed3b3b;
+}
+header nav {
+    float: right;
+    position: relative;
+    max-width: 700px;
+    max-height: 79px;
+}
+header nav ul li {
+    border-left: 1px solid rgba(26, 26, 26, 0.15);
+    display: inline-block;
+    margin-left: -4px;
+    position: relative;
+    transition: all .5s;
+    list-style: outside none none;
+    vertical-align: middle;
+}
+.nav-clicked {
+    background-color: #1a1a1a;
+    cursor: default;
+}
+.nav-clicked:hover {
+    background-color: #1a1a1a;
+}
+header nav ul li:hover {
+    background-color: #ef4f4f;
+}
+header nav ul li a {
+    font-size: 12px;
+    font-family: oswald;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
+    display: inline-block;
+    outline: medium none;
+    vertical-align: inherit;
+    padding: 34px 30px 33px 30px;
+}
+#logo {
+    display: inline-block;
+    max-width: 200px;
+}
+#logo a {
+    text-decoration: none;
+}
+#logo {
+    margin-top: 4px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+}
+header h1 {
+    font-size: 33px;
+    font-family: oswald;
+    font-weight: bold;
+    color: #FFF;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 35px;
+}
+#slogan {
+    height: 100vh;
+    background: transparent;
+}
+#slogan h2 {
+    font-size: 30px;
+    font-family: oswald;
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+    display: block;
+    padding-top: 40vh;
+}
+.clear {
+}
+.post_img {
+    min-height: 300px;
+    background: url(http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/bg_slogan.jpg); 
+    background-size: cover;
+    background-attachment:fixed;
+}
+.post {
+    width: 100%;
+}
+.post.bright {
+    color: #1a1a1a;
+    background-color: #f0f0f0;
+    background: transparent;
+}
+.post.dark {
+    color: #FFF;
+    background-color: #1a1a1a;
+    background: transparent;
+}
+.post article {
+    margin: auto;
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.post h2 {
+    font-size: 30px;
+    font-family: oswald;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.post p {
+    font-size: 14px;
+    font-family: oswald;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+main {
+
+}
+footer {
+   
+}
+@media (max-width: 850px) {
+    .post.with_img {
+    background-attachment:scroll;
+    }
+    #slogan {
+    background-attachment:scroll;
+}
+}
+.parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
+#spacer {
+    background-color: #ed3b3b;
+    height: 100px;
+}

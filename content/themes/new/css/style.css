@@ -1,0 +1,261 @@
+/*
+Diese Datei ist Teil des Projektes B2NET-CMS, welches von Alban Bruder im Rahmen 
+seinerKomplexen Leistung im Fach Informatik am Gymnasium Burgstädt erstellt wurde.
+
+Autor: Alban Bruder
+Tutor: Frau Wetzig	
+Betreuender Fachlehrer: Herr Schneider
+
+Dateiinformation
+Name:	
+Ort:	
+Funktion:
+*/
+/* 
+    Created on : 30.06.2015, 22:23:28
+    Author     : Alban
+*/
+body {
+    background-color: #f0f0f0;
+}
+header {
+    height: 79px;
+    background-color: #ed3b3b;
+}
+header nav {
+    float: right;
+    position: relative;
+    max-width: 700px;
+    max-height: 79px;
+}
+header nav ul li {
+    border-left: 1px solid rgba(26, 26, 26, 0.15);
+    display: inline-block;
+    margin-left: -4px;
+    position: relative;
+    transition: all .5s;
+    list-style: outside none none;
+    vertical-align: middle;
+}
+.nav-clicked {
+    background-color: #1a1a1a;
+    cursor: default;
+}
+.nav-clicked:hover {
+    background-color: #1a1a1a;
+}
+header nav ul li:hover {
+    background-color: #ef4f4f;
+}
+header nav ul li a {
+    font-size: 12px;
+    font-family: oswald;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
+    display: inline-block;
+    outline: medium none;
+    vertical-align: inherit;
+    padding: 34px 30px 33px 30px;
+}
+#logo {
+    display: inline-block;
+    max-width: 200px;
+}
+#logo a {
+    text-decoration: none;
+}
+#logo {
+    margin-top: 4px;
+    margin-bottom: 5px;
+    margin-left: 4px;
+}
+header h1 {
+    font-size: 33px;
+    font-family: oswald;
+    font-weight: bold;
+    color: #FFF;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 35px;
+}
+#slogan {
+    height: 100vh;
+    background: transparent;
+}
+#slogan h2 {
+    font-size: 30px;
+    font-family: oswald;
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+    display: block;
+    padding-top: 40vh;
+}
+.clear {
+}
+.post_img {
+    min-height: 300px;
+    background: url(http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/bg_slogan.jpg); 
+    background-size: cover;
+    background-attachment:fixed;
+}
+.post {
+    width: 100%;
+}
+.post.bright {
+    color: #1a1a1a;
+    background-color: #f0f0f0;
+}
+.post.dark {
+    color: #FFF;
+    background-color: #1a1a1a;
+}
+.post article {
+    margin: auto;
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.post h2 {
+    font-size: 30px;
+    font-family: oswald;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.post h2 a {
+    text-decoration: none;
+    color: inherit;
+}
+.post p {
+    font-size: 14px;
+    font-family: oswald;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+main {
+
+}
+footer {
+   
+}
+@media (max-width: 850px) {
+    .post.with_img {
+    background-attachment:scroll;
+    }
+    #slogan {
+    background-attachment:scroll;
+}
+}
+.parallax-window {
+    min-height: 300px;
+    background: transparent;
+}
+#spacer {
+    background-color: #ed3b3b;
+    height: 100px;
+}
+#page-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1A1A1A;
+}
+#page-content article {
+    width: 900px;
+    margin: auto;
+}
+#page-content article h1 {
+    font-size: 30px;
+    font-family: Oswald;
+    font-weight: normal;
+    padding-bottom: 20px;
+    color: #FFF;
+}
+#page-content article p {
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #FFF;
+}
+#image {
+    background: url(http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/bg_post2.jpg); 
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.center {
+    width: 900px;
+    margin: auto;
+}
+#single-post {
+}
+#post-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1A1A1A;
+}
+#post-header h1 {
+    font-size: 30px;
+    font-family: Oswald;
+    font-weight: normal;
+    padding-bottom: 20px;
+    color: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+}
+#post-content p {
+    font-size: 14px;
+    font-family: Roboto;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #FFF;
+}
+
+
+
+
+#error_container {
+    width: 100%;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    z-index: 1000;
+    background-color: rgba(0,0,0,0.8);
+    transition:visibility 0s linear 0.5s, opacity 0.5s linear;
+}
+.E_NOTICE, .E_USER_NOTICE {
+color: #00529B;
+background-color: #BDE5F8;
+background-image: url('http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/E_NOTICE.png');
+border: 1px solid;
+margin: 5px 5px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+.E_WARNING, .E_USER_WARNING, .E_PARSE, .E_CORE_WARNING, .E_COMPILE_WARNING {
+color: #9F6000;
+background-color: #FEEFB3;
+background-image: url('http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/E_WARNING.png');
+border: 1px solid;
+margin: 5px 5px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+
+}
+.E_ERROR, .E_USER_ERROR, .E_CORE_ERROR, .E_COMPILE_ERROR, .E_STRICT, .E_RECOVERABLE_ERROR, .E_DEPRECATED {
+color: #D8000C;
+background-color: #FFBABA;
+background-image: url('http://localhost/b2-net-cms-alpha/B2-NET-CMS/content/themes/new/img/E_ERROR.png');
+border: 1px solid;
+margin: 5px 5px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
